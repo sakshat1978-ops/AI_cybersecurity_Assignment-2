@@ -1,7 +1,7 @@
 # Cyber Security Threat Detection with Machine Learning and Deep Learning (CICIDS2017)
 | Name | Roll No | 
 |---|---|
-| Keshav Kathuria | 2301730348
+| Akshat Sharma | 2301730295
 
 Detecting malicious network traffic from flow-level features. This project classifies network flows from the **CICIDS2017** dataset as **normal** or **suspicious**, using machine learning baselines and a small neural network (MLP). It then compares the approaches on detection quality, training time and practical feasibility.
 
